@@ -1,0 +1,26 @@
+{
+  "name": "trial",
+  "version": "1.0.0",
+  "description": "Wei`s Trial Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kinice/Wei-s-Trial-Project.git"
+  },
+  "author": "Kinice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kinice/Wei-s-Trial-Project/issues"
+  },
+  "homepage": "https://github.com/Kinice/Wei-s-Trial-Project#readme",
+  "dependencies": {
+    "express-generator": "^4.13.1",
+    "gulp-less": "^3.0.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
